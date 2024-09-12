@@ -1,0 +1,22 @@
+1. Add Action to Jbutton and repleace by function
+2. Adjust size of any sub panel (full Screen Size 1400 x 680)
+3. Design any Button
+4. Change all Variables in constructor to Private?
+== data set == 
+== adjust some about data set!!!
+1009,Ro Ryza,Female,Jan 01 2002,ryza@gmail.com,Java Developer,Kampong Cham,91817161,700,Full time
+7891,Wan Mono,Male,Jan 10 2024,mono@gmail.com,WEB Developer,Phnom Pehn,987654321,500,Full time
+10101,Yaya,Female,Jan 23 2024,yaya@gmail.com,WEB Developer,PP,998888,800,Full time
+81818,yaya,Female,Jan 05 2024,yaya@gmail.com,APP developer,PP,99999,800,Part time
+818199,yaya,Female,Jan 08 2024,yaya@gmail.com,APP developer,PP,99999,800,Part time
+9092,kaka1,Female,Jan 09 2024,kaka@gmail.com,APP developer,PP,987878,800,Full time
+9095,kaka2,Female,Jan 25 2024,kaka@gmail.com,APP developer,PP,987878,800,Full time
+88383,Kaka3,Female,Jan 31 2024,kaka3@gmail.com,APP developer,PP,999999,900,Full time
+90909,kaka7,Female,Jan 01 2024,kaka@gmail.com,APP developer,PP,99987777,900,Full time
+9876543,kkkkk,Male,Jan 12 2024,kkkkkk@gmail.com,APP developer,PP,8888888,900,Full time
+987777,kkkkk1333,Male,Jan 23 2024,kkkkkk133@gmail.com,APP developer,PP,8888888,900,Full time
+988777,koko,Male,Jan 24 2024,koko@gmail.com,Software Engineer,PP,9999999,900,Full time
+988776,koko1,Male,Jan 30 2024,koko@gmail.com,Software Engineer,PP,9999999,900,Full time
+988771,koko5,Male,Jan 13 2024,koko@gmail.com,Software Engineer,PP,9999999,900,Full time
+99999,koko9,Male,Jan 16 2024,koko9@gmail.com,WEB Developer,Phnom Penh,099999,800,Full time
+
